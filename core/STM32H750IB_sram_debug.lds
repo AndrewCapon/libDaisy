@@ -27,7 +27,7 @@ SECTIONS
 		. = ALIGN(4);
 		KEEP(*(.isr_vector))
 		. = ALIGN(4);
-	} > FLASH
+	} > DTCMRAM AT > FLASH
 
 	.text :
 	{
@@ -135,7 +135,7 @@ SECTIONS
 		_ebss = .;
 
 		PROVIDE(__bss_end__ = _ebss);
-	} > DTCMRAM 
+	} > SRAM 
 
 	.dtcmram_bss (NOLOAD) :
 	{
