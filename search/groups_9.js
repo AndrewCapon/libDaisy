@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['sdram_0',['SDRAM',['../group__sdram.html',1,'']]],
-  ['serial_1',['SERIAL',['../group__serial.html',1,'']]],
-  ['shiftregister_2',['SHIFTREGISTER',['../group__shiftregister.html',1,'']]],
-  ['system_3',['SYSTEM',['../group__system.html',1,'']]]
+  ['max11300_0',['MAX11300',['../group___m_a_x11300.html',1,'']]],
+  ['midi_1',['MIDI',['../group__midi.html',1,'']]],
+  ['midi_5fevents_2',['MIDI_EVENTS',['../group__midi__events.html',1,'']]]
 ];

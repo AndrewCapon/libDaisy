@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['transportcallbackfunctionptr_0',['TransportCallbackFunctionPtr',['../namespacedaisy_1_1_m_a_x11300_types.html#a4fe4bebd1da4375dd9957bd27db76c93',1,'daisy::MAX11300Types']]]
+  ['receivecallback_0',['receivecallback',['../class_usb_handle.html#a33ca9123252e485a3d2045590e5e6217',1,'UsbHandle::ReceiveCallback'],['../class_usb_handle.html#a33ca9123252e485a3d2045590e5e6217',1,'UsbHandle::ReceiveCallback']]]
 ];
