@@ -16,7 +16,7 @@ QSPI_ADDRESS  ?= 0x90040000
 # TODO: add config.mk file for settings like programmer, etc.
 ######################################
 OCD=openocd
-OCD_DIR ?= /usr/local/share/openocd/scripts
+OCD_DIR ?= /Users/andrewcapon/Development/openocd/scripts
 PGM_DEVICE ?= interface/stlink.cfg
 OCDFLAGS = -f $(PGM_DEVICE) -f target/$(CHIPSET).cfg
 
